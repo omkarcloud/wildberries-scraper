@@ -1,0 +1,10 @@
+bottle
+cheroot
+curl_cffi
+marshmallow
+patchright
+psutil
+pyvirtualdisplay; sys_platform == "linux"
+pytest
+browserforge
+requests
